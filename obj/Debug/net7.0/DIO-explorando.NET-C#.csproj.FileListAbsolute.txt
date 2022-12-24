@@ -1,0 +1,30 @@
+F:/DEV/DIO/DIO-explorando.NET-C#/bin/Debug/net7.0/DIO-explorando.NET-C#.exe
+F:/DEV/DIO/DIO-explorando.NET-C#/bin/Debug/net7.0/DIO-explorando.NET-C#.deps.json
+F:/DEV/DIO/DIO-explorando.NET-C#/bin/Debug/net7.0/DIO-explorando.NET-C#.runtimeconfig.json
+F:/DEV/DIO/DIO-explorando.NET-C#/bin/Debug/net7.0/DIO-explorando.NET-C#.dll
+F:/DEV/DIO/DIO-explorando.NET-C#/bin/Debug/net7.0/DIO-explorando.NET-C#.pdb
+F:/DEV/DIO/DIO-explorando.NET-C#/obj/Debug/net7.0/DIO-explorando.NET-C#.csproj.AssemblyReference.cache
+F:/DEV/DIO/DIO-explorando.NET-C#/obj/Debug/net7.0/DIO-explorando.NET-C#.GeneratedMSBuildEditorConfig.editorconfig
+F:/DEV/DIO/DIO-explorando.NET-C#/obj/Debug/net7.0/DIO-explorando.NET-C#.AssemblyInfoInputs.cache
+F:/DEV/DIO/DIO-explorando.NET-C#/obj/Debug/net7.0/DIO-explorando.NET-C#.AssemblyInfo.cs
+F:/DEV/DIO/DIO-explorando.NET-C#/obj/Debug/net7.0/DIO-explorando.NET-C#.csproj.CoreCompileInputs.cache
+F:/DEV/DIO/DIO-explorando.NET-C#/obj/Debug/net7.0/DIO-explorando.NET-C#.dll
+F:/DEV/DIO/DIO-explorando.NET-C#/obj/Debug/net7.0/refint/DIO-explorando.NET-C#.dll
+F:/DEV/DIO/DIO-explorando.NET-C#/obj/Debug/net7.0/DIO-explorando.NET-C#.pdb
+F:/DEV/DIO/DIO-explorando.NET-C#/obj/Debug/net7.0/DIO-explorando.NET-C#.genruntimeconfig.cache
+F:/DEV/DIO/DIO-explorando.NET-C#/obj/Debug/net7.0/ref/DIO-explorando.NET-C#.dll
+/run/media/gabriel/HD Hitachi/DEV/DIO/DIO-explorando.NET-C#/bin/Debug/net7.0/DIO-explorando.NET-C#
+/run/media/gabriel/HD Hitachi/DEV/DIO/DIO-explorando.NET-C#/bin/Debug/net7.0/DIO-explorando.NET-C#.deps.json
+/run/media/gabriel/HD Hitachi/DEV/DIO/DIO-explorando.NET-C#/bin/Debug/net7.0/DIO-explorando.NET-C#.runtimeconfig.json
+/run/media/gabriel/HD Hitachi/DEV/DIO/DIO-explorando.NET-C#/bin/Debug/net7.0/DIO-explorando.NET-C#.dll
+/run/media/gabriel/HD Hitachi/DEV/DIO/DIO-explorando.NET-C#/bin/Debug/net7.0/DIO-explorando.NET-C#.pdb
+/run/media/gabriel/HD Hitachi/DEV/DIO/DIO-explorando.NET-C#/obj/Debug/net7.0/DIO-explorando.NET-C#.csproj.AssemblyReference.cache
+/run/media/gabriel/HD Hitachi/DEV/DIO/DIO-explorando.NET-C#/obj/Debug/net7.0/DIO-explorando.NET-C#.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/gabriel/HD Hitachi/DEV/DIO/DIO-explorando.NET-C#/obj/Debug/net7.0/DIO-explorando.NET-C#.AssemblyInfoInputs.cache
+/run/media/gabriel/HD Hitachi/DEV/DIO/DIO-explorando.NET-C#/obj/Debug/net7.0/DIO-explorando.NET-C#.AssemblyInfo.cs
+/run/media/gabriel/HD Hitachi/DEV/DIO/DIO-explorando.NET-C#/obj/Debug/net7.0/DIO-explorando.NET-C#.csproj.CoreCompileInputs.cache
+/run/media/gabriel/HD Hitachi/DEV/DIO/DIO-explorando.NET-C#/obj/Debug/net7.0/DIO-explorando.NET-C#.dll
+/run/media/gabriel/HD Hitachi/DEV/DIO/DIO-explorando.NET-C#/obj/Debug/net7.0/refint/DIO-explorando.NET-C#.dll
+/run/media/gabriel/HD Hitachi/DEV/DIO/DIO-explorando.NET-C#/obj/Debug/net7.0/DIO-explorando.NET-C#.pdb
+/run/media/gabriel/HD Hitachi/DEV/DIO/DIO-explorando.NET-C#/obj/Debug/net7.0/DIO-explorando.NET-C#.genruntimeconfig.cache
+/run/media/gabriel/HD Hitachi/DEV/DIO/DIO-explorando.NET-C#/obj/Debug/net7.0/ref/DIO-explorando.NET-C#.dll
