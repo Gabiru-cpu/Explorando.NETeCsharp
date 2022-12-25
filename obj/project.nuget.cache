@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ewl5gmwfHdhEgX5in5rvBTYD8GEHaBqM/YScG7e6HO7QSCkFnfV9jPQt1hKWnLZqd1YDKniT5teF15xGRCuNWg==",
+  "dgSpecHash": "E4QqiED3V1qHjTcRsf0TYyKqYQJYP/9vLB+FGaNEZ1APOxO9cZfnypSmKtHM0E7qkjaOIfbtmvfI/xKVwUdk+w==",
   "success": true,
-  "projectFilePath": "/run/media/gabriel/HD Hitachi/DEV/DIO/DIO-explorando.NET-C#/DIO-explorando.NET-C#.csproj",
-  "expectedPackageFiles": [
-    "/home/gabriel/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.1/microsoft.aspnetcore.app.ref.7.0.1.nupkg.sha512"
-  ],
+  "projectFilePath": "F:\\DEV\\DIO\\DIO-explorando.NET-C#\\DIO-explorando.NET-C#.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

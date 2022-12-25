@@ -32,7 +32,7 @@ namespace DIO_explorando.NET_C_.models
             for (int i = 0; i < Alunos.Count; i++)
             {
                 //string text = "N° " + i + " - " + Alunos[i].NomeCompleto; //Concatenando
-                string text = $"N° + {i+1} - {Alunos[i].NomeCompleto}"; //Interpolando
+                string text = $"N° {i+1} - {Alunos[i].NomeCompleto}"; //Interpolando
                 Console.WriteLine(text);
             }
             
