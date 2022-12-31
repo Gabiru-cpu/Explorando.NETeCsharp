@@ -5,7 +5,12 @@
     <TargetFramework>net7.0</TargetFramework>
     <RootNamespace>DIO_explorando.NET_C_</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
+    <Nullable>disable</Nullable>
+    <!-- <Nullable>enable</Nullable> -->
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="9.0.1" />
+  </ItemGroup>
 
 </Project>

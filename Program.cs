@@ -1,11 +1,53 @@
 ﻿using DIO_explorando.NET_C_.models;
 using System.Globalization; // necessario para usar o cultureInfo defaut para pt-br
+using Newtonsoft.Json;
 
 CultureInfo.DefaultThreadCurrentCulture = new CultureInfo("pt-BR");
 
-new Example().Dicionario();
+List<Vendas> listaVendas = new List<Vendas>();
+
+Vendas v1 = new Vendas(1, "material de escritorio", 25.00M);
+Vendas v2 = new Vendas(2, "material de construção", 110.00M);
+
+listaVendas.Add(v1);
+listaVendas.Add(v2);
+
+string serialization = JsonConvert.SerializeObject(listaVendas, Formatting.Indented);
+
+File.WriteAllText("files/vendas.json",serialization);
+
+Console.WriteLine(serialization);
 
 
+
+
+
+
+
+
+
+
+
+
+
+/*
+ExampleTupla arquivo = new ExampleTupla();
+//colocar o _ assim descartando um return por exemplo no lugar do quantidadeLinhas
+var (sucesso, linhasArquiv, quantidadeLinhas) = arquivo.LeituraTupla("files/leitura.txt"); 
+//new ExampleTupla().TUPLA();
+if (sucesso)
+{
+    Console.WriteLine("Quantidade de linhas do arquivo: " + quantidadeLinhas);
+    foreach (var item in linhasArquiv)
+    {
+        Console.WriteLine(item);
+    }
+}
+else
+{
+    Console.WriteLine("não foi possível ler o arquivo");
+}
+*/
 
 //new Example().Metodo1();
 

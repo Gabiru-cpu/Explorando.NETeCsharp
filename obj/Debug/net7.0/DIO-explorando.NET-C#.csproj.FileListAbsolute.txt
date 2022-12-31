@@ -28,3 +28,5 @@ F:\DEV\DIO\DIO-explorando.NET-C#\obj\Debug\net7.0\refint\DIO-explorando.NET-C#.d
 F:\DEV\DIO\DIO-explorando.NET-C#\obj\Debug\net7.0\DIO-explorando.NET-C#.pdb
 F:\DEV\DIO\DIO-explorando.NET-C#\obj\Debug\net7.0\DIO-explorando.NET-C#.genruntimeconfig.cache
 F:\DEV\DIO\DIO-explorando.NET-C#\obj\Debug\net7.0\ref\DIO-explorando.NET-C#.dll
+F:\DEV\DIO\DIO-explorando.NET-C#\bin\Debug\net7.0\Newtonsoft.Json.dll
+F:\DEV\DIO\DIO-explorando.NET-C#\obj\Debug\net7.0\DIO-explorando.NET-C#.csproj.CopyComplete
